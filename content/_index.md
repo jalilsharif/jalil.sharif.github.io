@@ -7,12 +7,12 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Test
       image:
         filename: hero-academic.png
       cta:
-        label: '**Get Started**'
-        url: https://wowchemy.com/templates/
+        label: '**My Page**'
+        url: https://jalilsharif.github.io
       cta_alt:
         label: Ask a question
         url: https://discord.gg/z8wNYzb
